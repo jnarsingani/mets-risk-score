@@ -1,4 +1,4 @@
-# MetS Risk Score — Multimodal Prediction in Young Adults
+# MetS Risk Score - Multimodal Prediction in Young Adults
 
 ## Research Question
 Can we predict continuous Metabolic Syndrome severity in young adults (18–45)
