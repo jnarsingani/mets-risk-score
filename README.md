@@ -28,4 +28,4 @@ ElasticNet · XGBoost · LightGBM · SHAP Explainability · Calibration Analysis
 🔧 In Progress
 
 ## Author
-Jayeshkumar Narsingani — M.S. Applied Mathematics
+Jayeshkumar Narsingani - M.S. Applied Mathematics
